@@ -13,6 +13,7 @@ public class _8_Practice_CreateDB {
     String dbPassword = "Bilal01";
 
     String query1 = "create database bilalDemo ";
+
     String query2 = "use bilalDemo";
     String query3 = """
             create table branches(
